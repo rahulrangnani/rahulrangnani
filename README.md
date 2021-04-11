@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulrangnani
-- 👀 I’m interested in creating new ui 
+- 👀 I’m interested in creating better ui 
 - 🌱 I’m currently learning Full stack development 
 
 
