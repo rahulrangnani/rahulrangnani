@@ -2,9 +2,12 @@
 
 
 ![](https://komarev.com/ghpvc/?username=rahulrangnani&color=green)
-- 👀 I’m interested in creating better ui 
-- 🌱 I’m currently learning Full stack development 
-  - [My Website](https://rahulrangnani.me/).
+
+👀 I’m interested in creating better ui 
+
+🌱 I’m currently learning Full stack development 
+
+[My Website](https://rahulrangnani.me/).
 
 
 
